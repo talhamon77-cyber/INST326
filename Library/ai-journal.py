@@ -10,3 +10,11 @@ This week since it was basic python coding I tried my hardest to not use AI to d
 I ended up being successful and completed the assignment within a couple hours. Since I just finished
 moving I don't have access to a gym besides the one on campus I used Chatgpt to schedule a workout for me to use
 throughout the week. Here is the chat log: https://chatgpt.com/c/68c777db-1cec-8323-bd31-a30e127d4c9e
+
+
+Week 2
+This week I had not used AI for the assignment but instead collaborated with my group to work on some questions.
+I also used AI this week to help me prepare for a presentation I had to do with another group for a different class.
+it made me small bullet points using my notes that I had prepared in advance to remember specific points
+I wanted to bring up when presenting. Here are those logs! https://chatgpt.com/c/68cb784f-ccd8-832c-bbc1-b5a7cffde6f0
+
