@@ -18,3 +18,9 @@ I also used AI this week to help me prepare for a presentation I had to do with 
 it made me small bullet points using my notes that I had prepared in advance to remember specific points
 I wanted to bring up when presenting. Here are those logs! https://chatgpt.com/c/68cb784f-ccd8-832c-bbc1-b5a7cffde6f0
 
+
+Week 3
+This week was much more difficult than the previous ones. This time I had help with AI to figure some things out
+such as how to identify parameters when defining functions and the structures of how to use functions in your code, as
+well as debugging for the questions 29 and 30 as an example. Here are those logs: 
+
