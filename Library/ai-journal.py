@@ -22,12 +22,13 @@ I wanted to bring up when presenting. Here are those logs! https://chatgpt.com/c
 Week 3
 This week was much more difficult than the previous ones. This time I had help with AI to figure some things out
 such as how to identify parameters when defining functions and the structures of how to use functions in your code, as
-<<<<<<< HEAD
 well as debugging for the questions 29 and 30 as an example. I also compared the capability of ChatGPT and Deepseek and found
 that Deepseek to be much less profieceint when it comes to coding instrucitons in comparison to GPT. 
 https://chatgpt.com/share/68d9f96e-9c58-8008-97c4-59e2c655c1e7
 https://chat.deepseek.com/share/0mdpltom42xd8xiuxi
-=======
-well as debugging for the questions 29 and 30 as an example. Here are those logs: 
 
->>>>>>> 2c2e84eb1fe800cba2db8a676811cdda2b46cfa3
+Week 4
+This week I used AI in a few different ways. First, I asked ChatGPT to help me brainstorm ideas for modeling real-world objects as Python classes, 
+which helped me clearly see which attributes and methods would make sense for the objects I was thinking about. I also used AI to help me organize 
+my thoughts for a discussion post on data ethics. It helped me turn my notes into concise sentences while keeping my own voice intact. Here are the links 
+to the chats I used: https://chatgpt.com/share/68cb784f-ccd8-832c-bbc1-b5a7cffde6f0
