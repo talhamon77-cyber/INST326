@@ -1,6 +1,7 @@
 print('hello world!')
 
 
+'''
 AI Usage Journal
 Talha Muhammad 
 Section 0303 
@@ -40,3 +41,5 @@ of different functions that I could work on. After I finished coding the intial 
 format it using docstrings and to fix any potential errors. Lastly, to finish up project 1 I asked AI to help me navigate through githubs
 various menus and options to create the repository following project 1's guidelines. Overall, CHATGPT was very helpful in getting started with
 the project
+
+'''
