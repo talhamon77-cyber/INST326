@@ -32,3 +32,11 @@ This week I used AI in a few different ways. First, I asked ChatGPT to help me b
 which helped me clearly see which attributes and methods would make sense for the objects I was thinking about. I also used AI to help me organize 
 my thoughts for a discussion post on data ethics. It helped me turn my notes into concise sentences while keeping my own voice intact. Here are the links 
 to the chats I used: https://chatgpt.com/share/68cb784f-ccd8-832c-bbc1-b5a7cffde6f0
+
+week 5
+This week I only used AI for project 1. I had asked CHATGPT to help me break down project 1 into steps becuase I thought the 
+instructions were kind of confusing. It broke it down into steps that were easy to follow. I then asked it to help me think
+of different functions that I could work on. After I finished coding the intial parts of the functions, I then asked chatgpt to help
+format it using docstrings and to fix any potential errors. Lastly, to finish up project 1 I asked AI to help me navigate through githubs
+various menus and options to create the repository following project 1's guidelines. Overall, CHATGPT was very helpful in getting started with
+the project
